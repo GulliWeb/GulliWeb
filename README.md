@@ -10,14 +10,14 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Html, Css, Boostrap, Javascript, Vue.js, MySql, Php, Laravel, React**
+ 🌱 I’m currently learning **Html, Css, Boostrap, Javascript, Vue.js, MySql, Php, Laravel & React**
 
 ⚡ Curiosity: The fastest sorting algorithm was discovered by a curious kitten!
 
  </div>
  
 <div align="center"> 
-  <a href="andrea:andreagulli11@gmail.com">
+  <a href="mailto:andreagulli11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="www.linkedin.com/in/andrea-gullì-413387258" target="_blank">
