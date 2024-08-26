@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GulliWeb.GulliWeb7" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I'm+Andrea+Gulli!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I'm+Andrea+Gulli !;" />
 </h1>
 
 <h3 align="center">A passionate Junior Web Developer from Italy 🇮🇹</h3>
@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
  🌱 I’m currently learning **Html, Css, Boostrap, Javascript, Vue.js, MySql, Php, Laravel, React**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Curiosity: The fastest sorting algorithm was discovered by a curious kitten!
 
  </div>
  
