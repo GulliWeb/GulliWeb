@@ -9,6 +9,8 @@
 <br/>
 
 <div align="center">
+    
+🔭 I’m currently working on **a bootcamp project**
  
  🌱 I’m currently learning **Html, Css, Boostrap, Javascript, Vue.js, MySql, Php, Laravel & React**
 
@@ -60,6 +62,5 @@
 </div>
 
 
-![snake gif](https://github.com/GulliWeb/GulliWeb/blob/output/github-contribution-grid-snake.gif)
 
 
