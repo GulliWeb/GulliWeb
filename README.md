@@ -12,7 +12,7 @@
     
 🔭 I’m currently working on **a bootcamp project**
  
- 🌱 I’m currently learning **Html, Css, Boostrap, Javascript, Vue.js, MySql, Php, Laravel & React**
+ 🌱 I’m currently learning **React**
 
 ⚡ Curiosity: The fastest sorting algorithm was discovered by a curious kitten!
 
