@@ -14,6 +14,8 @@
  
  🌱 I’m currently learning **JS DSA**
 
+ 💬 Ask me about **SQL**
+
 ⚡ Curiosity: The fastest sorting algorithm was discovered by a curious kitten!
 
  </div>
