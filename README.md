@@ -59,6 +59,6 @@
 <br/>
 <div align="center">
   <a href="https://www.freecodecamp.org/certification/guillicode/javascript-algorithms-and-data-structures" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-JS_DSA_Structures_and_Algorithms-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/FreeCodeCamp-JS_Data_Structures_and_Algorithms-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
   </a>
 </div>
