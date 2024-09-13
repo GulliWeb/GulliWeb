@@ -16,7 +16,7 @@
 
  💬 Ask me about **SQL**
 
-⚡ Curiosity: The fastest sorting algorithm was discovered by a curious kitten!
+⚡ fun fuct: In my free time i love to code!
 
  </div>
  
