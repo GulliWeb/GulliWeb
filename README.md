@@ -52,3 +52,13 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GulliWeb&L&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<hr/>
+
+<h2 align="center">🏆 Certifications 🏆</h2>
+<br/>
+<div align="center">
+  <a href="https://www.freecodecamp.org/certification/guillicode/javascript-algorithms-and-data-structures" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-JS_DSA_Structures_and_Algorithms-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
+  </a>
+</div>
