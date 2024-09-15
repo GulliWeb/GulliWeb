@@ -16,7 +16,7 @@
 
  💬 Ask me about **SQL**
 
- ⚡ Fun fuct: In my free time I code
+ ⚡Fun fact: My side projects have side projects.
 
  </div>
  
