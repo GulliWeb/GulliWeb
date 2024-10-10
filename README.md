@@ -16,13 +16,9 @@
 
  💬 Ask me about **SQL**
 
- ⚡Fun fact: My side projects have side projects.
-
- 🚀 Future Goals: Deepen my backend skills with Node.js, explore AWS, and learn cybersecurity.
-
-🎯 Looking Forward To: Contributing to open-source projects and collaborating with other developers.
-
-🏎️ Hobbies: Passionate about technology, sports, and supercars—always following the latest trends.
+ 🚀 Future Goals: Deepen my **backend** skills with Node.js, explore **AWS**, and learn **cybersecurity**.
+ 
+⚡Fun fact: My side projects have side projects.
 
  </div>
  
