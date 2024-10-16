@@ -63,4 +63,8 @@
   <a href="https://www.freecodecamp.org/certification/guillicode/javascript-algorithms-and-data-structures" target="_blank">
     <img src="https://img.shields.io/badge/FreeCodeCamp-JS_Data_Structures_and_Algorithms-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
   </a>
+  <br/> <!-- Spazio tra le certificazioni -->
+  <a href="https://www.freecodecamp.org/certification/GulliCode/responsive-web-design" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
+  </a>
 </div>
