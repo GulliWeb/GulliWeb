@@ -60,7 +60,7 @@
 <h2 align="center">🏆 Certifications 🏆</h2>
 <br/>
 <div align="center">
-  <a href="https://www.freecodecamp.org/certification/guillicode/javascript-algorithms-and-data-structures" target="_blank">
+  <a href="https://www.freecodecamp.org/certification/GulliCode/javascript-algorithms-and-data-structures-v8" target="_blank">
     <img src="https://img.shields.io/badge/FreeCodeCamp-JS_Data_Structures_and_Algorithms-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
   </a>
   <br/> <!-- Spazio tra le certificazioni -->
