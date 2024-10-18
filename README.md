@@ -10,7 +10,7 @@
 
 <div align="center">
     
-🔭 I’m currently working on a **Weather App** using **Vue.js** and **OpenWeather API**
+🔭 I’m currently working on a **Weather App**
 
 🌱 I’m currently learning **the Google Cybersecurity Course** 🧑‍💻 and enhancing my skills in **SQL**
 
