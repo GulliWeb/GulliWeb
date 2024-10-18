@@ -10,15 +10,15 @@
 
 <div align="center">
     
-🔭 I’m currently working on **a weather app using Vue.js and OpenWeather API**
- 
- 🌱 I’m currently learning **JavaScript Data Structures and Algorithms**
+🔭 I’m currently working on a **Weather App** using **Vue.js** and **OpenWeather API**
 
- 💬 Ask me about **SQL**
+🌱 I’m currently learning **the Google Cybersecurity Course** 🧑‍💻 and enhancing my skills in **SQL**
 
- 🚀 Future Goals: Deepen my **backend** skills with Node.js, explore **AWS**, and learn **cybersecurity**.
- 
-⚡Fun fact: My side projects have side projects.
+💬 Ask me about **SQL**
+
+🚀 Future Goals: Advance in **cybersecurity** and explore **ethical hacking** 
+
+⚡ Fun fact: Passwords are still one of the weakest links in cybersecurity, and “123456” remains one of the most common passwords used.
 
  </div>
  
