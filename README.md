@@ -10,7 +10,7 @@
 
 <div align="center">
     
-🔭 I’m currently working on a **Weather App**
+🔭 I’m currently working on a **Supercar App** and creating my portfolio.
 
 🌱 I’m currently learning **the Google Cybersecurity Course**
 
