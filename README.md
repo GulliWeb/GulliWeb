@@ -12,7 +12,7 @@
     
 🔭 I’m currently working on a **Weather App**
 
-🌱 I’m currently learning **the Google Cybersecurity Course** 🧑‍💻 and enhancing my skills in **SQL**
+🌱 I’m currently learning **the Google Cybersecurity Course**
 
 💬 Ask me about **SQL**
 
