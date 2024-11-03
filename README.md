@@ -1,70 +1,26 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GulliWeb.GulliWeb7"/>
+# 👋 Hi, I'm Andrea Gulli!
+👨‍💻 Junior Web Developer based in Turin, Italy<br/>
+🎓 Currently completing an intensive six-month web development bootcamp<br/>
+🌍 Excited to pursue international opportunities in web development<br/>
+🚗 Tech enthusiast with a passion for supercars and exploring new places<br/>
+📜 Actively pursuing certifications on [freeCodeCamp](https://www.freecodecamp.org/) to broaden my skill set<br/>
+🖥️ Diving into ethical hacking and cybersecurity as potential future pathways<br/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Andrea+Gulli!;" />
-</h1>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=GulliWeb&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<h3 align="center">A passionate Junior Web Developer from Italy🇮🇹</h3>
-
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
-
-<div align="center">
-    
-🔭 I’m currently working on a **Supercar App** and creating my portfolio.
-
-🌱 I’m currently learning **the Google Cybersecurity Course**
-
-💬 Ask me about **SQL**
-
-🚀 Future Goals: Advance in **cybersecurity** and explore **ethical hacking** 
-
-⚡ Fun fact: Passwords are still one of the weakest links in cybersecurity, and “123456” remains one of the most common passwords used.
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:andreagulli11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
- <a href="https://www.linkedin.com/in/andrea-gull%C3%AC-413387258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
-  <a href="https://github.com/GulliWeb" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vuejs,bootstrap,mysql,php,laravel" /> <br>
-        <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=GulliWeb&count_&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=GulliWeb&count_&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GulliWeb&L&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<hr/>
-
-<h2 align="center">🏆 Certifications 🏆</h2>
-<br/>
-<div align="center">
-  <a href="https://www.freecodecamp.org/certification/GulliCode/javascript-algorithms-and-data-structures-v8" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-JS_Data_Structures_and_Algorithms-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
-  </a>
-  <br/> <!-- Spazio tra le certificazioni -->
-  <a href="https://www.freecodecamp.org/certification/GulliCode/responsive-web-design" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
-  </a>
-</div>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%23202020.svg?style=for-the-badge&logo=axios&logoColor=%2361DAFB)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
