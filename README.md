@@ -3,7 +3,7 @@
 🎓 Currently completing an intensive six-month web development bootcamp<br/>
 🌍 Excited to pursue international opportunities in web development<br/>
 🚗 Tech enthusiast with a passion for supercars and exploring new places<br/>
-📜 Actively pursuing certifications on [freeCodeCamp](https://www.freecodecamp.org/) to broaden my skill set<br/>
+📜 Actively pursuing certifications to broaden my skill set and stay updated<br/>
 🖥️ Diving into ethical hacking and cybersecurity as potential future pathways<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
