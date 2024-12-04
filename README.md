@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Andrea Gulli!
-👨‍💻 Junior Web Developer based in Turin, Italy<br/>
-🎓 Currently completing an intensive six-month web development bootcamp<br/>
-🌍 Excited to pursue international opportunities in web development<br/>
-🚗 Tech enthusiast with a passion for supercars and exploring new places<br/>
+👨‍💻 Junior Developer based in Turin, Italy<br/>
+🌍 Eager to explore international opportunities in the development field<br/>
+🚗 Tech enthusiast with a passion for supercars and travelling<br/>
 📜 Actively pursuing certifications to broaden my skill set and stay updated<br/>
 🖥️ Diving into ethical hacking and cybersecurity as potential future pathways<br/>
 
