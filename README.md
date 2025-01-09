@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrea Gulli!
 👨‍💻 Junior Developer based in Turin, Italy<br/>
-🌍 Eager to explore international opportunities in the development field<br/>
+🌍 Open to international roles in development and cybersecurity, where I can combine my skills and passions<br/>
 🚗 Tech enthusiast with a passion for supercars and travelling<br/>
 📜 Actively pursuing certifications to broaden my skill set and stay updated<br/>
 🖥️ Diving into ethical hacking and cybersecurity as potential future pathways<br/>
